@@ -6,7 +6,7 @@ metadata:
 spec:
   template:
     metadata:
-      name: hello-world
+      name: hello-knative-world
     spec:
       containers:
         - image: gcr.io/knative-samples/helloworld-go
